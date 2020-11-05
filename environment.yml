@@ -5,7 +5,7 @@ channels:
 dependencies:
   - bqplot
   - git
-  - jupyterlab
+  - jupyterlab>=2.1
   - pip
   - rise
   - voila
