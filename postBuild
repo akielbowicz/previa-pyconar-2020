@@ -1,6 +1,5 @@
 #!/bin/bash 
 set -ex 
 
-jupyter labextension install @jupyter-widgets/jupyterlab-manager@2.0
 jupyter labextension install bqplot 
 jupyter labextension install @jupyter-voila/jupyterlab-preview
