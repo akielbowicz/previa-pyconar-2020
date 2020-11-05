@@ -1,5 +1,0 @@
-#!/bin/bash 
-set -ex 
-
-jupyter labextension install bqplot 
-jupyter labextension install @jupyter-voila/jupyterlab-preview
