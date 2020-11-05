@@ -10,3 +10,5 @@ dependencies:
   - rise
   - voila
   - pandas
+  - sympy
+  - ipywidgets

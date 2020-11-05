@@ -7,11 +7,12 @@ Para que ya tengan su ambiente de trabajo preparado, dejo aquí los requerimient
 
 El requerimiento para realizar este taller es tener un ambiente con python3 y las siguientes librerías:
 
- - JupyterLab o Jupyter Notebook
- - sympy
- - bqplot
- - voila
- - pandas
+ - [JupyterLab]()
+ - [sympy](https://docs.sympy.org/latest/tutorial/preliminaries.html)
+ - [bqplot](https://github.com/bqplot/bqplot#usage)
+ - [voila](https://github.com/voila-dashboards/voila#the-voil%C3%A0-gallery)
+ - [pandas](http://pandas.pydata.org/docs/getting_started/index.html#intro-to-pandas)
+ - [ipywidgets](https://github.com/jupyter-widgets/ipywidgets#ipywidgets-interactive-html-widgets)
 
 ## Instalación
 
@@ -46,10 +47,14 @@ conda env create --name previa-pyconar --file environment.yml
 
 Una vez que termine de instalar todo, tenés que activar el ambiente de *conda* ejecutando:
 
-Alguno de estos comandos ( depende del ambiente y la consola ):
-
-```bash
+```
 conda activate previa-pyconar
+```
+
+Y despues terminar de instalar un par de herramientas de jupyter adicionales que vamos a usar 
+
+```
+jupyter labextension install @jupyter-widgets/jupyterlab-manager@2.0 bqplot @jupyter-voila/jupyterlab-preview
 ```
 
 Una vez activado hay que abrir Jupyter ejecutando:
