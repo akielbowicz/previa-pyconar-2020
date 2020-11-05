@@ -1,0 +1,12 @@
+name: previa-pyconar
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - bqplot
+  - git
+  - jupyterlab
+  - pip
+  - rise
+  - voila
+  - pandas
