@@ -12,3 +12,4 @@ dependencies:
   - pandas
   - sympy
   - ipywidgets
+  - nodejs
