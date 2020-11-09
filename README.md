@@ -72,3 +72,7 @@ En caso de que no puedas instalar o quieras probarlo podes usar Binder, que es u
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/akielbowicz/previa-pyconar-2020.git/HEAD?urlpath=lab)
 
 Hay que tener cuidado porque si dejas de utilizar por un tiempo la pagina el servidor apaga la instancia que estas corriendo y vas a perder todo lo que hiciste.
+
+# Materiales
+
+Podes empezar a trabajar yendo al cuaderno de [Introduccion](./notebooks/00_Intro.ipynb)
