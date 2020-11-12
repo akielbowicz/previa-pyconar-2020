@@ -1,5 +1,6 @@
 # La previa a la PyConAr 2020
 
+## [saxa.xyz/previaPyConAr2020](http://saxa.xyz/previaPyConAr2020)
 
 Para que ya tengan su ambiente de trabajo preparado, dejo aquí los requerimientos mínimos y una guía de como prepararlo.
 
@@ -79,4 +80,7 @@ Podes empezar a trabajar yendo al cuaderno de [Introducción](./notebooks/00_Int
 
 # Durante el taller
 [Notebook 1: Uso de Jupyter y Python](https://nbviewer.jupyter.org/github/akielbowicz/previa-pyconar-2020/blob/charla/notebooks/01_uso_de_jupyter.ipynb?flush_cache=True)
+
 [Notebook 2: Análisis de datos](https://nbviewer.jupyter.org/github/akielbowicz/previa-pyconar-2020/blob/charla/notebooks/02_analisis_de_datos.ipynb?flush_cache=True)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/akielbowicz/previa-pyconar-2020/charla?urlpath=lab)
