@@ -1,7 +1,7 @@
 # La previa a la PyConAr 2020
 
 
-Para que ya tengan su ambiente de trabajo preparado, dejo aquí los requerimientos mínimos y una guia de como prepararlo.
+Para que ya tengan su ambiente de trabajo preparado, dejo aquí los requerimientos mínimos y una guía de como prepararlo.
 
 ## Requerimientos
 
@@ -51,7 +51,7 @@ Una vez que termine de instalar todo, tenés que activar el ambiente de *conda* 
 conda activate previa-pyconar
 ```
 
-Y despues terminar de instalar un par de herramientas de jupyter adicionales que vamos a usar 
+Y después terminar de instalar un par de herramientas de jupyter adicionales que vamos a usar 
 
 ```
 jupyter labextension install @jupyter-widgets/jupyterlab-manager@2.0 bqplot @jupyter-voila/jupyterlab-preview
@@ -75,4 +75,8 @@ Hay que tener cuidado porque si dejas de utilizar por un tiempo la pagina el ser
 
 # Materiales
 
-Podes empezar a trabajar yendo al cuaderno de [Introduccion](./notebooks/00_Intro.ipynb)
+Podes empezar a trabajar yendo al cuaderno de [Introducción](./notebooks/00_Intro.ipynb)
+
+# Durante el taller
+[Notebook 1: Uso de Jupyter y Python](https://nbviewer.jupyter.org/github/akielbowicz/previa-pyconar-2020/blob/charla/notebooks/01_uso_de_jupyter.ipynb?flush_cache=True)
+[Notebook 2: Análisis de datos](https://nbviewer.jupyter.org/github/akielbowicz/previa-pyconar-2020/blob/charla/notebooks/02_analisis_de_datos.ipynb?flush_cache=True)
